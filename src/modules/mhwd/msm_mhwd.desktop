@@ -1,0 +1,78 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Service
+Icon=audio-card
+Exec=kcmshell5 msm_mhwd
+
+X-KDE-Library=msm_mhwd
+X-KDE-ServiceTypes=KCModule
+X-KDE-System-Settings-Parent-Category=condres
+X-KDE-ParentApp=kcontrol
+X-KDE-PluginKeyword=msm_mhwd
+X-KDE-Keywords=hardware
+X-KDE-Keywords[x-test]=xxhardwarexx
+Categories=Qt;KDE;X-KDE-settings-system;condres
+
+Name=Hardware Configuration
+Name[ca]=Configuració del maquinari
+Name[cs_CZ]=Nastavení hardware
+Name[da]=Hardwarekonfiguration
+Name[de]=Hardwarekonfiguration
+Name[el]=Ρύθμιση υλικού
+Name[es]=Configuración de hardware
+Name[es_419]=Configuración de Hardware
+Name[fa_IR]=پیکربندی سخت افزار
+Name[fi]=Laitteiston asetukset
+Name[fr]=Configuration Matérielle
+Name[hr]=Konfiguracija sklopovlja
+Name[hu]=Hardware Konfiguráció
+Name[is]=Vélbúnaðar stillingar
+Name[it]=Configurazione Hardware
+Name[ja]=ハードウェアの設定
+Name[lt]=Aparatinės įrangos konfigūravimas
+Name[nb]=Maskinvareoppsett
+Name[nl]=Hardware Configuratie
+Name[pl]=Konfiguracja sprzętowa
+Name[pt_BR]=Configuração de Hardware
+Name[pt_PT]=Configuração do Hardware
+Name[ro]=Configurare Hardware
+Name[ru]=Конфигурация оборудования
+Name[sk_SK]=Konfigurácia hardvéru
+Name[sl]=Strojna nastavitev
+Name[sv]=Hårdvarukonfiguration
+Name[tr]=Donanım Yapılandırma Aracı
+Name[uk]=Конфігурація обладнання
+Name[zh_CN]=硬件设定
+Name[zh_TW]=硬體設定
+
+Name[ast]=Configuración de Hardware
+
+
+Comment=condres Hardware Detection graphical user interface
+Comment[ca]=Interfície d'usuari gràfica per a la Detecció de maquinari del condres
+Comment[da]=condres hardwareregistrering grafisk brugerflade
+Comment[de]=Grafische Benutzeroberfläche der condres-Hardwareerkennung
+Comment[es]=Interfaz gráfica de usuario para condres Hardware Detection
+Comment[es_419]=Interfaz gráfica de Detección de Hardware de condres
+Comment[fa_IR]=تشخیص سخت افزاری رابط گرافیکی کاربر مانجارو
+Comment[fi]=condres laitteiston tunnistuksen graaffinen käyttöliittymä
+Comment[fr]=Interface utilisateur de détection matérielle de condres
+Comment[hr]=Grafičko korisničko sučelje za condres Hardware Detection
+Comment[hu]=condres Hardware Érzékelés grafikus felhasználói felület
+Comment[is]=condres vélbúnaðar greining með grafísku notendaviðmóti
+Comment[it]=Interfaccia grafica di condres Hardware Detection
+Comment[ja]=condres Hardware Detection graphical user interface
+Comment[lt]=condres aparatinės įrangos aptikimo grafinė naudotojo sąsaja
+Comment[nb]=Grensesnitt for condres Hardware Detection
+Comment[pl]=Graficzny interfejs użytkownika wykrywania sprzętu condres
+Comment[pt_BR]=Interface Gráfica do Usuário condres Hardware Detection
+Comment[pt_PT]=condres Hardware Detection interface gráfica do utilizador
+Comment[ro]=Interfața grafică de detectare hardware a sistemului condres
+Comment[ru]=Графический интерфейс condres Hardware Detection
+Comment[sk_SK]=Grafické rozhranie pre rozpoznanie hardvéru systému condres
+Comment[sl]=condres strojna zaznava grafičnega vmesnika
+Comment[sv]=condress hårdvarudetekteringsverktyg
+Comment[tr]=MHWD - condres Donanım Yapılandırma grafik arayüzü
+Comment[uk]=condres виявлено обладнання графічний користувальницький інтерфейс
+Comment[zh_CN]=使用 condres 硬件侦测图形用户界面
+Comment[zh_TW]=condres 硬體偵測圖形使用者介面

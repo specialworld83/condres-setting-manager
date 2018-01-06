@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=csm_kde_notifier
+Name=CSM Notifier
+Type=Application
+StartupNotify=false
+Terminal=false
+Hidden=false
+OnlyShowIn=KDE;GNOME;Unity;XFCE
+Icon=/usr/share/icons/preferences-desktop-condres.png
+Categories=Settings;DesktopSettings;X-LXDE-Settings;X-XFCE-SettingsDialog;X-KDE-Settings;X-XFCE-SystemSettings;

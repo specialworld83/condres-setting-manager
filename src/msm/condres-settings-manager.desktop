@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Condres Settings Manager
+Name[ca]=Gestor de configuració de Condres
+Name[de]=Condres Einstellungen
+Name[en_GB]=Condres Settings Manager
+Name[es]=Gestor de configuración de Condres
+Name[fr]=Condres Gestionnaire de paramètres
+Name[pl]=Menedżer ustawień Condres
+Name[ro]=Gestionar de Setări Condres
+Name[sk]=Správca nastavení systému Condres
+
+Comment=Graphical Settings Manager for Condres
+Comment[ca]=Gestor de configuració gràfic de Condres
+Comment[de]=Grafische Einstellungsverwaltung für Condres
+Comment[en_GB]=Graphical Settings Manager for Condres
+Comment[es]=Gestor de configuración gráfico de Condres
+Comment[fr]=Gestionnaire graphique de paramètres pour Condres
+Comment[pl]=Graficzny menedżer ustawień systemu Condres
+Comment[ro]=Gestionar grafic de setări de sistem pt. Condres
+Comment[sk]=Grafický správca nastavení pre systém Condres
+
+Exec=condres-settings-manager
+Icon=preferences-desktop
+Terminal=false
+Type=Application
+Categories=Categories=Settings;DesktopSettings;X-LXDE-Settings;X-KDE-Settings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;

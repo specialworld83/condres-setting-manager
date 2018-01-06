@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Condres Notifier KDE Settings
+Name[fr]=Paramètres du Notifieur KDE Condres
+Name[sk]=Nastavenia oznámení KDE systému Condres
+
+Comment=Graphical Settings for Condres Notifier KDE
+Comment[de]=Grafische Einstellungsverwaltung für Condres
+Comment[fr]=Gestionnaire graphique de paramètres pour Notifieur Condres
+Comment[sk]=Grafické nastavenia oznámení prostredia KDE pre systém Condres
+
+Exec=csm_kde_notifier --settings
+Icon=/usr/share/icons/preferences-desktop-condres.png
+Terminal=false
+Type=Application
+Categories=Settings;DesktopSettings;X-LXDE-Settings;X-XFCE-SettingsDialog;X-KDE-Settings;X-XFCE-SystemSettings;
